@@ -1,3 +1,5 @@
+<h1>DEPRECATED</h1>
+ See <a href="https://github.com/rgpegasus/better-ani-scraped">better-ani-scraped</a>.
 <h1 align="center">
 Ani-Scraped
 </h1>
